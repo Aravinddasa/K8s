@@ -2,6 +2,8 @@
 2. docker images
 3. docker images -a
 4. docker tag imgid name:tag
+   docker login 
+   docker push repositoryName
 
 5. Docker provides a single command that will clean up any resources — images, containers, volumes, and networks — that are dangling (not associated with a container):
 
